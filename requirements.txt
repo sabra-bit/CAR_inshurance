@@ -8,5 +8,6 @@ colorama
 cryptocode
 itsdangerous
 gunicorn
+streamlit_option_menu
 
 
