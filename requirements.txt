@@ -1,0 +1,12 @@
+seaborn
+streamlit
+numpy
+pandas
+sklearn
+click
+colorama
+cryptocode
+itsdangerous
+gunicorn
+
+
